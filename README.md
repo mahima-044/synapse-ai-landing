@@ -6,10 +6,9 @@ A premium, high-performance SaaS product landing page for **Synapse AI** built w
 
 ---
 
-## 🚀 Live Demo & Screenshots
+## 🚀 Live Demo
 
-*   **Live Demo:** synapse-ai-landing-pearl.vercel.app(#)
-*   **Screenshots:** *(Placeholders for dashboard visuals and pricing toggles)*
+*   **Live Demo:** synapse-ai-landing-pearl.vercel.app.(#)
 
 ---
 
